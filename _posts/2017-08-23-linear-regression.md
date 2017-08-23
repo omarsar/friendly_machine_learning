@@ -1,5 +1,5 @@
 ---
-layout: 01-linear-regression
+layout: linear-regression-univariate
 title: "Chapter 1 - Linear Regression (One Variable)"
 author: billy_rick
 modified:
