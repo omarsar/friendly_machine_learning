@@ -1,6 +1,6 @@
 ---
 layout: 01-linear-regression
-title: "Hello World"
+title: "Chapter 1 - Linear Regression (One Variable)"
 author: billy_rick
 modified:
 comments: true
