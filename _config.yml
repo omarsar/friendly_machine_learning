@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title:            Elvis Saravia
+locale:           en_US
+url:              http://elvissaravia.com
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+#highlighter: pygments
+
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jemoji
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  syntax_highlighter: rouge
+
+# Site owner
+owner:
+  name: Elvis Saravia
+  avatar: avatar-background.png
+  bio: "Creator and proud dad"
+  email: ellfae@gmail.com
+  disqus-shortname: #elvissaravia
+  twitter: omarsar0  
+  facebook: 
+  google: 
+    plus: OmarSar27
+    analytics: UA-75648820-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: omarsar
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
