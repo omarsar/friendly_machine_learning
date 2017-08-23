@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: 01-linear-regression
 title: "Hello World"
 author: billy_rick
-modified: 
+modified:
 comments: true
 excerpt: "Just saying hi!"
 tags: []
