@@ -28,20 +28,20 @@ kramdown:
 
 # Site owner
 owner:
-  name: Elvis Saravia
-  avatar: avatar-background.png
+  name: Machine Learning
+  avatar: ml_logo.png
   bio: "Creator and proud dad"
   email: ellfae@gmail.com
   disqus-shortname: #elvissaravia
-  twitter: omarsar0  
-  facebook: 
-  google: 
+  twitter: omarsar0
+  facebook:
+  google:
     plus: OmarSar27
     analytics: UA-75648820-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: omarsar
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
