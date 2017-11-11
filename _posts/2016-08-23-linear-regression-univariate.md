@@ -1,11 +1,11 @@
 ---
 layout: linear-regression-univariate
-title: "Chapter 1 - Linear Regression (One Variable) :book:"
+title: "Linear Regression (One Variable)"
 author: billy_rick
 modified:
 comments: true
-excerpt: "Just saying hi!"
+excerpt: "Univariate Linear Regression"
 tags: []
 ---
 
-Hello Beatiful world! Lots of cool content coming soon! Startup tips, life tips, tutorials, research content and just about anything that makes this world a better place.
+Here we show how to do univariate Linear regression using MATLAB. 
